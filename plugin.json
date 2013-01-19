@@ -1,0 +1,14 @@
+{
+  "type": "javascript",
+  "id": "legendasdivx",
+  "file": "legendasdivx.js",
+  "category": "subtitles",
+  "showtimeVersion": "4.1.419",
+  "version": "1.0",
+  "author": "andreus sebes (andreus.sebes@gmail.com)",
+  "title": "LegendasDivX",
+  "icon": "logo.png",
+  "synopsis": "The biggest portuguese subtitle database",
+  "description": "This plugin makes Showtime automatically search for subtitles online at legendasdivx.com when playing a movie.\n\nOnly for Portuguese language users.",
+  "homepage": "https://github.com/andreus-sebes/showtime-plugin-legendasdivx"
+}
